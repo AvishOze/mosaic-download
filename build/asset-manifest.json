@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/mosaic-download/static/js/main.9e5c44b8.chunk.js",
+    "main.js.map": "/mosaic-download/static/js/main.9e5c44b8.chunk.js.map",
+    "runtime-main.js": "/mosaic-download/static/js/runtime-main.560e11a9.js",
+    "runtime-main.js.map": "/mosaic-download/static/js/runtime-main.560e11a9.js.map",
+    "static/js/2.9f58c008.chunk.js": "/mosaic-download/static/js/2.9f58c008.chunk.js",
+    "static/js/2.9f58c008.chunk.js.map": "/mosaic-download/static/js/2.9f58c008.chunk.js.map",
+    "index.html": "/mosaic-download/index.html",
+    "static/js/2.9f58c008.chunk.js.LICENSE.txt": "/mosaic-download/static/js/2.9f58c008.chunk.js.LICENSE.txt",
+    "static/media/1.eb6db59f.jpeg": "/mosaic-download/static/media/1.eb6db59f.jpeg",
+    "static/media/2.69868fe9.jpg": "/mosaic-download/static/media/2.69868fe9.jpg",
+    "static/media/3.361a3867.png": "/mosaic-download/static/media/3.361a3867.png",
+    "static/media/4.775582af.jpg": "/mosaic-download/static/media/4.775582af.jpg",
+    "static/media/5.aa2b80e0.png": "/mosaic-download/static/media/5.aa2b80e0.png",
+    "static/media/6.de88c184.png": "/mosaic-download/static/media/6.de88c184.png",
+    "static/media/7.6ae63518.png": "/mosaic-download/static/media/7.6ae63518.png",
+    "static/media/8.54c095c2.jpg": "/mosaic-download/static/media/8.54c095c2.jpg",
+    "static/media/Mosaic.93ba0f8c.apk": "/mosaic-download/static/media/Mosaic.93ba0f8c.apk",
+    "static/media/avifont.bd48a6be.woff2": "/mosaic-download/static/media/avifont.bd48a6be.woff2",
+    "static/media/logo.593a9dbd.png": "/mosaic-download/static/media/logo.593a9dbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.560e11a9.js",
+    "static/js/2.9f58c008.chunk.js",
+    "static/js/main.9e5c44b8.chunk.js"
+  ]
+}
